@@ -94,7 +94,7 @@ Climate-resilient crops (lowest per-hectare methane):
 
 ## 📊 Sample Visuals
 
-![Heatmap](‎correlation_production_heatmap.png)
+![Heatmap](‎[correlation_production_heatmap.png](https://github.com/RohithRoshanMurali/Agricultural-Emissions/blob/main/correlation_production_heatmap.png))
 
 
 
